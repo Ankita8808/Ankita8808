@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Ankita Bhoyar!
 
-<!--
-**Ankita8808/Ankita8808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Quality Assurance Tester** | 🧪 Manual & Automation | 💬 Strong communicator | 👩‍💻 SDET Graduate
 
-Here are some ideas to get you started:
+## 🔍 About Me
+I’m a dedicated QA Tester with a focus on delivering flawless user experiences. My passion lies in thoroughly understanding software, identifying bugs, and ensuring seamless performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 8 months of experience in **mobile and web testing** at **DGYMBOOK**
+- 💻 Skilled in Selenium, Java, TestNG, and Postman  
+- 🧪 Experience in functional, regression, and mobile testing (Royal Brother App)  
+- 🔁 Familiar with Agile and SDLC/STLC  
+- 🎓 Postgraduate in Computer Science | SDET @ Masai School  
+- 📍 Based in Nagpur, India  
+
+## 🛠️ Tech Stack
+**Testing Tools:** Selenium, Postman, JUnit, TestNG  
+**Languages:** Java, JavaScript (basics)  
+**Others:** Git, Maven, MySQL, Jenkins (basic)
+
+## 🌱 Currently Learning
+Mobile Automation using Maestro | API Automation
+
+## 📫 Connect with Me
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ankita-bhoyar)
+
+---
+
+> *“Quality is never an accident; it is always the result of intelligent effort.”*
