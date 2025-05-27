@@ -9,11 +9,12 @@ I’m a dedicated QA Tester with a focus on delivering flawless user experiences
 - 💻 Skilled in Selenium, Java, TestNG, and Postman  
 - 🧪 Experience in functional, regression, and mobile testing (Royal Brother App)  
 - 🔁 Familiar with Agile and SDLC/STLC  
-- 🎓 Postgraduate in Computer Science | SDET @ Masai School  
+- 🎓 Graduate in Computer Science | SDET @ Masai School
+- 🎓 Postgraduate in MBA (finance & Marketing)
 - 📍 Based in Nagpur, India  
 
 ## 🛠️ Tech Stack
-**Testing Tools:** Selenium, Postman, JUnit, TestNG  
+**Testing Tools:** Selenium, Postman, JUnit, TestNG, Appium 
 **Languages:** Java, JavaScript (basics)  
 **Others:** Git, Maven, MySQL, Jenkins (basic)
 
