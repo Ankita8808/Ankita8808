@@ -22,7 +22,7 @@ I’m a dedicated QA Tester with a focus on delivering flawless user experiences
 
 ## 📫 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ankita-bhoyar)
-- 🔗 [GitHub]-(https://github.com/Ankita8808)
+- 🔗 [GitHub]-(https://github.com/Ankita8808).
 
 ---
 
